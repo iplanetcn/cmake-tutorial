@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # set the project name and version
-project(Tutorial VERSION 1.0)
+project(cmake-tutorial VERSION 1.0)
 
 # set c++ standard version
 set(CMAKE_CXX_STANDARD 14)

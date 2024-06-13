@@ -9,7 +9,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -159,5 +160,5 @@ dkms.conf
 
 # End of https://www.toptal.com/developers/gitignore/api/C
 build/
-
-n
+cmake-build-debug/
+.idea/
